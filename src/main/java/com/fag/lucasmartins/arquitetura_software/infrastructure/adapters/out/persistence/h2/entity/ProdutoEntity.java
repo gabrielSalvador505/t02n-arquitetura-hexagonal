@@ -3,7 +3,7 @@ package com.fag.lucasmartins.arquitetura_software.infrastructure.adapters.out.pe
 import javax.persistence.*;
 
 @Entity
-@Table(name = "tb_produto")
+@Table(name = "tb_produtos")
 public class ProdutoEntity {
 
     @Id
